@@ -1,21 +1,31 @@
+# Hi there, I'm a CS Student! 👋
+
+> *"Code is like magic, but real."* 🪄
+
+Mình là sinh viên đam mê **Khoa học máy tính**, đặc biệt hứng thú với cách máy tính vận hành từ bên trong (Operating Systems) và xây dựng ứng dụng.
+
+---
+
+### 🛠️ Languages & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+### 📊 Github Stats
 <div align="center">
-  <img src="https://media1.tenor.com/m/XoX7sD2eCqEAAAAC/frieren-sousou-no-frieren.gif" width="100%" style="border-radius: 10px;"/>
-  
-  <h1> ✨ Welcome to my Coding Journey ✨ </h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-### 🧙‍♂️ About Me
-toi la toi
+---
 
-- 🎓 **Student ID:** 24521486
-- 🔭 **Focus:** Systems Programming (C/C++), Application Dev (C#).
-
-### ⚔️ My Arsenal (Tech Stack)
-| Core | Tools |
-| :--- | :--- |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![VS](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
-### 🕰️ Recent Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NhutQuoc&theme=dark&background=00000000)
+### 🌱 I’m currently learning...
+- ⚙️ **Operating Systems:** Process Scheduling, Memory Management.
+- 💻 **WinForms:** Building modern UI with C#.
+- 🧩 **Algorithms:** Data Structures (Linked List, Vectors) & Optimization.
